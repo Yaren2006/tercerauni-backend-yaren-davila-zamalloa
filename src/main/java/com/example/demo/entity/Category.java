@@ -1,5 +1,7 @@
 package com.example.demo.entity;
 
+//===== ENTIDAD CATEGORY =====
+
 import jakarta.persistence.*;
 import java.util.List;
 import com.fasterxml.jackson.annotation.JsonIgnore;

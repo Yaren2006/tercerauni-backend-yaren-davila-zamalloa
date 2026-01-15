@@ -1,5 +1,6 @@
 package com.example.demo.entity;
 
+//===== ENTIDAD PRODUCT =====
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 
