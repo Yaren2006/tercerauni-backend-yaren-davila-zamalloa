@@ -13,7 +13,7 @@ public class Product {
 
     private String name;
 
-    private BigDecimal price;   // Compatible con DECIMAL(10,2)
+    private BigDecimal price;   
 
     @ManyToOne
     @JoinColumn(name = "category_id")
