@@ -1,5 +1,6 @@
 package com.example.demo.controller;
 
+//catalog//
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
